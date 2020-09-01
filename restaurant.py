@@ -1,5 +1,3 @@
-
-
 # 11:10 01.09 kata zwischendurch = restaurant.py
 # https://www.codewars.com/kata/5d23d89906f92a00267bb83d?utm_source=newsletter&utm_medium=email&utm_campaign=weekly_coding_challenges_sponsored_by_scout_apm&utm_term=2020-08-25
 
@@ -24,34 +22,11 @@
 # 7. Milkshake
 # 8. Coke
 
-def restaurant(order): # order = String, --> order als Liste 
-	
-	# result = str('ert').title();
-	s = 'myorder'
-	result = s.title()
-	print (result)
-	# result = title(order)
-	return result
-	
-restaurant('')
 
-Robert
-github
-martinberlin2
-pw 21
-
-vcs version control system 
-
-auch shell zum git üben
-
-	
-# Hi Robert, 	
-	# ich mach grade eine Kata, es sollen Wörter Gross geschrieben werden...und...
-	# s = 'mystring'
-	# result = s.title()
-	
-	# ergibt bei mir 
-	# name 'title' is not defined!
-	# und kein stackoverflow sagt, dass ich irgendwas importieren muss.
-	# es sieht sooo einfach aus....
-	# was kann das sein?
+def restaurant(order):  # order = String, --> order als Liste
+    # result = str('ert').title();
+    s = "myorder"
+    result = s.title()
+    print(result)
+    # result = title(order)
+    return result
