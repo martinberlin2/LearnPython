@@ -11,6 +11,7 @@ execMethWithExc = NaTALi.execMethWithExc
 
 import restaurant
 restaurant = restaurant.restaurant
+# änderung
 
 import logging
 	
